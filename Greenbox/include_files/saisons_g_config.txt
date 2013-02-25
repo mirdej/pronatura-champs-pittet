@@ -1,0 +1,4 @@
+1 "Macintosh HD:/Users/expo2013/Documents/Saisons/F/01-hiver-ailes.aif" 0 63 55
+2 "Macintosh HD:/Users/expo2013/Documents/Saisons/F/02-printemps.aif" 0 39 80
+3 "Macintosh HD:/Users/expo2013/Documents/Saisons/F/03-ete.aif" 0 14 107
+4 "Macintosh HD:/Users/expo2013/Documents/Saisons/F/04-Automne.aif" 0 88 29
