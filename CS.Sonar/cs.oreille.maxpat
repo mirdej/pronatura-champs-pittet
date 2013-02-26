@@ -92,8 +92,8 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 570.75, 310.0, 28.0, 20.0 ],
-					"text" : "r ttt"
+					"patching_rect" : [ 570.75, 310.0, 74.0, 20.0 ],
+					"text" : "r draw_ears"
 				}
 
 			}
