@@ -9,7 +9,7 @@ outlets = 1;
 
 
 function bang() {
-	if (bat == moth) {post('same');post();return;}
+	if (bat == moth) {return;}
 	
 	time = Math.abs(bat-moth);
 	if (time > 180) time -= 180;
