@@ -1,5 +1,6 @@
 name Crapaud accoucheur
-kiss 0.37
+name Geburtshelferkröte
+kiss 0.26
 file_m frog.png
 file_f frog.png
 scale 0.16
