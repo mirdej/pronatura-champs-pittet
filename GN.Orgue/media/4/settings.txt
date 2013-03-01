@@ -1,5 +1,6 @@
 scale 0.16
 name Grenouille rousse
-kiss 0.37
+name Grasfrosch
+kiss 0.32
 file_m frog.png
 file_f frog.png

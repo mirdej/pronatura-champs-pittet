@@ -1,5 +1,6 @@
 name Crapaud commun
-kiss 0.37
+name Erdkröte
+kiss 0.30
 file_m frog.png
 file_f frog.png
 scale 0.16

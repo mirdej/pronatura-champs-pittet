@@ -1,5 +1,6 @@
 scale 0.16
 name Grenouille rieuse
+name Seefrosch
 kiss 0.37
 file_m frog.png
 file_f frog.png

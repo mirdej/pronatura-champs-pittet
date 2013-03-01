@@ -1,5 +1,6 @@
 scale 0.16
 name Rainette
-kiss 0.37
+name Europäischer Laubfrosch
+kiss 0.30
 file_m frog.png
 file_f frog.png
